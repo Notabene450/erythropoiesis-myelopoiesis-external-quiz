@@ -1,2 +1,5 @@
-# erythropoiesis-myelopoiesis-external-quiz
-Erythropoiesis &amp; Myelopoiesis · External Bank · Quiz
+# Erythropoiesis & Myelopoiesis · External Bank · Quiz
+
+كويز تفاعلي — ملف HTML واحد، بيفتح على أي موبايل أو كمبيوتر.
+
+اللينك: شوف **About → Website** في الريبو ده.
